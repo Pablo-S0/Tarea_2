@@ -1,0 +1,8 @@
+D:\UNIVERSIDAD\IIIQ\Progra 2\c#\Tarea2\Tarea2\bin\Debug\Tarea2.exe.config
+D:\UNIVERSIDAD\IIIQ\Progra 2\c#\Tarea2\Tarea2\bin\Debug\Tarea2.exe
+D:\UNIVERSIDAD\IIIQ\Progra 2\c#\Tarea2\Tarea2\bin\Debug\Tarea2.pdb
+D:\UNIVERSIDAD\IIIQ\Progra 2\c#\Tarea2\Tarea2\obj\Debug\Tarea2.csproj.AssemblyReference.cache
+D:\UNIVERSIDAD\IIIQ\Progra 2\c#\Tarea2\Tarea2\obj\Debug\Tarea2.csproj.SuggestedBindingRedirects.cache
+D:\UNIVERSIDAD\IIIQ\Progra 2\c#\Tarea2\Tarea2\obj\Debug\Tarea2.csproj.CoreCompileInputs.cache
+D:\UNIVERSIDAD\IIIQ\Progra 2\c#\Tarea2\Tarea2\obj\Debug\Tarea2.exe
+D:\UNIVERSIDAD\IIIQ\Progra 2\c#\Tarea2\Tarea2\obj\Debug\Tarea2.pdb
